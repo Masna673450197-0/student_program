@@ -1,0 +1,4 @@
+[
+  { "id": "seed-1", "studentId": "6501001", "firstName": "สมชาย", "lastName": "ใจดี", "major": "วิทยาการคอมพิวเตอร์", "year": 3, "gpa": 3.45, "email": "somchai@example.com" },
+  { "id": "seed-2", "studentId": "6501002", "firstName": "สมหญิง", "lastName": "รักเรียน", "major": "เทคโนโลยีสารสนเทศ", "year": 2, "gpa": 3.8, "email": "somying@example.com" }
+]
